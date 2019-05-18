@@ -1,0 +1,15 @@
+.Title {
+    text-align: center;
+    color: crimson;
+}
+
+.size-box1{
+    background-color: black;
+    color: white;
+}
+
+.size-box2 {
+    height: 40px;
+    background-color: black;
+    color: white;
+}
